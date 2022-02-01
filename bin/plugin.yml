@@ -1,7 +1,0 @@
-name: Civitas
-version: 0.1
-author: SnorriDev
-main: snorri.Main
-
-commands:
-  Hello:
